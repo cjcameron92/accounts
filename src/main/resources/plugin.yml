@@ -1,0 +1,4 @@
+main: io.metaverse.accounts.AccountPlugin
+name: accounts
+version: 1.0
+depend: [helper, helper-redis]
